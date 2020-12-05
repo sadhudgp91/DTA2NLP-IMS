@@ -18,7 +18,7 @@ DTA2NLP is an advanced annotation tool which can convert plain utf-8 text files 
 1. Clone this repo.
 2. Create a new virtual environment in Python <pip install virtualenv, then python3 -m venv venv>
 3. Activate this virtual environment and install spaCy: \
-   <mark> <b> cd venv \
+   <mark> <b> cd venv </b> \
    .\Scripts\activate \
    pip install spacy \
    Download the model: python -m spacy download de_core_news_sm 
