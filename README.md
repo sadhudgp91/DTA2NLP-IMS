@@ -17,11 +17,12 @@ DTA2NLP is an advanced annotation tool which can convert plain utf-8 text files 
 
 1. Clone this repo.
 2. Create a new virtual environment in Python <pip install virtualenv, then python3 -m venv venv>
-3. Activate this virtual environment and install spaCy:
-   cd venv \
+3. Activate this virtual environment and install spaCy: \
+   <mark> <b> cd venv \
    .\Scripts\activate \
    pip install spacy \
-   Download the model: python -m spacy download de_core_news_sm
+   Download the model: python -m spacy download de_core_news_sm 
+   </mark>
 4. Run the annotate file using the sandmann.txt as input argument <python annotate.py sandmann.txt>
 5. If everything works, you should be able to see the output file as: annotated_data.json
 
