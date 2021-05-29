@@ -7,7 +7,7 @@ Tagger output files for annotation purpose
 Introduction: DTA2NLP is a python based application for text annotation and analysis.
 
 It has two main components: 1. An annotation component that allows the user to annotate text 
-							2. Analysis component that supports pattern analysis of text and annotations in combination through a data visualization technique based on Python and NLP. (ToDO)
+							2. Analysis component that supports pattern analysis of text and annotations in combination through a data visualization technique based on Python and NLP.
 
 ## Workflow
 
